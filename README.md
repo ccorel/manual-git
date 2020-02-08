@@ -125,3 +125,8 @@ Manual de terminal
 - touch archivo : crea un archivo
 - ls : lista los elemntos dentro de la carpeta actual
 - ls -la: lista los elementos dentro de la carpeta actual de manera detallada con   la opcion a, lista los elementos ocultos
+
+Orden:
+- git add
+- git commit -m "mensaje"
+- git push origin master
